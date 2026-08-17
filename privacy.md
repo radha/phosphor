@@ -4,7 +4,7 @@ title: Privacy Policy
 # Privacy Policy — Phosphor Arcade
 
 **Last updated: 17 August 2026.** Applies to Phosphor Arcade
-(`io.github.nukareddy.phosphor`), version 0.3.0 and later, distributed on Google
+(`io.github.radha.phosphor`), version 0.3.0 and later, distributed on Google
 Play.
 
 ## The short version
