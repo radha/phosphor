@@ -3,7 +3,7 @@ title: Privacy Policy
 ---
 # Privacy Policy — Phosphor Arcade
 
-**Last updated: 17 August 2026.** Applies to Phosphor Arcade
+**Last updated: 3 October 2026.** Applies to Phosphor Arcade
 (`io.github.radha.phosphor`), version 0.3.0 and later, distributed on Google
 Play.
 
@@ -28,6 +28,7 @@ app can read:
 | Your settings — sound, haptics, scanlines, glow level, chill mode | So the app opens the way you left it |
 | Your best score for each of the seven games | To show your personal best |
 | Daily streak, runs played today, runs played in total | For the streak display and the ad pacing rules |
+| Today's daily-challenge best, and the date it was set | To show the daily challenge's best for that day only |
 | Which one-time hints you have already seen | So the app stops repeating them |
 | Whether the ad-free entitlement is set | To suppress ads if it is |
 
